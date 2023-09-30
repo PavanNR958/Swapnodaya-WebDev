@@ -1,0 +1,93 @@
+/* Style the header with a blue background and some padding */
+header {
+    background-color: rgb(95, 2, 152);;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Style the navigation bar with a white background and some margin */
+  nav {
+    background-color: #fff;
+    margin: 10px;
+  }
+  
+  /* Style the navigation links with a black color and some padding */
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /* Change the color of the navigation links on mouse-over */
+  nav ul li a:hover {
+    color: rgb(95, 2, 152);;
+  }
+  
+  /* Style the main section with some margin and padding */
+  main {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Style the button with a blue background and white text */
+  button {
+    background-color: rgb(95, 2, 152);;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+  }
+  
+  /* Change the background color of the button on mouse-over */
+  button:hover {
+    background-color: #0f0;
+  }
+  
+  /* Style the image with some margin and border */
+  img {
+    margin: 10px;
+    border: 5px solid rgb(95, 2, 152);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style the anchor with a blue color and underline */
+  a {
+    color: rgb(95, 2, 152);
+    text-decoration: underline;
+  }
+  
+  /* Change the color of the anchor on mouse-over */
+  a:hover {
+    color: #0f0;
+  }
+  
+  /* Style the ordered list with some margin and padding */
+  ol {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Style the unordered list with some margin and padding */
+  ul {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Style the footer with a blue background and white text */
+  footer {
+    background-color: rgb(95, 2, 152);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
