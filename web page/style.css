@@ -1,0 +1,68 @@
+.centered-text {
+    text-align: center;
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+    vertical-align: right;
+  }
+  .container-wrapper {
+    text-align: left;
+    position: relative;
+    bottom: 10;
+    left: 0;
+    right: 0;
+  }
+  .frame-container {
+    position: relative;
+    width: 1885px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;    
+    background-color: #4c4d4a;
+    text-align: center;
+  }
+  .frame {
+    width: 350px;
+    height: 300px;
+    background-color: #faf172; /* Background color for frames */
+    margin: 10px; /* Adjust margin as needed */
+  }
+
+  .frame-image {
+    display: block;
+    margin: 0 auto; /* Center-align the image horizontally within its container */
+  }
+
+  .text-align{
+    text-align: center;
+  }
+
+  button {
+    background-color: rgb(186, 100, 239);;
+    color: #000000;
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 50px;
+  }
+
+  .large-button {
+    padding: 20px 40px; 
+    font-size: 30px; 
+  }
+
+  .large-input {
+    width: 100px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    font-size: 30px; /* Adjust the font size if needed */
+  }
+  
